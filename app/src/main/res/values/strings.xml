@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Product List</string>
+    <string name="string_product">Nome do Produto</string>
+    <string name="string_price">99,99</string>
+</resources>
